@@ -1,6 +1,6 @@
 # Bank-churn.
 # LANDING PAGE
-    - Customer ID: A unique number assigned to identify a customer.
+    -Customer ID: A unique number assigned to identify a customer.
     - Surname: A person’s last name, shared within a family.
     - Credit Score: A numerical rating of a person’s creditworthiness.
     - Geography: The study of Earth’s landscapes, people, and places.
