@@ -18,14 +18,13 @@
  # DATA SOURCE
  # TOOLS
  # DATA CLEANING
- APPLIED STEPS
-Source
-Promoted Headers
-Changed Type
-Filtered Rows
-Replaced Value
-× Filtered Rows1
+ Promoted Headers
+ Changed Type
+ Filtered Rows
+ Replaced Value
+ Filtered Rows1
  # DATA MANIPULATION
+Age group
  # TYPES OF ANALYSIS FOR THIS PROJECT 
  # KPI
  # PRIMARY KPI
@@ -48,9 +47,7 @@ Which geographic region has the highest churn rate?
  - Age Group by Churned Customers (Bar Chart): Middle-aged customers (40-60) have the highest churn, with 703 and 702 customers leaving in those age groups and Younger and older customers churn less.
  - Active Customers by Inactive Customers (Pie Chart): 51.51% of customers are active, while 48.49% are inactive, showing a close balance between both groups,Inactive members.
  - Gender by Churned Customers (Bar Chart): Female customers have a higher churn rate (25%) compared to males (16%)
- - Churned Customers by Geography (Bar Chart): Germany has the highest churn rate (32%), followed by Spain (17%) and France (16%).
-
-  
+ - Churned Customers by Geography (Bar Chart): Germany has the highest churn rate (32%), followed by Spain (17%) and France (16%). 
  # DASHBOARD
  
 # INSIGHT
