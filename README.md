@@ -24,6 +24,7 @@
  Replaced Value
  Filtered Rows1
  # DATA MANIPULATION
+ Created a new columns to create power consumption by day of the week with this dax funchion
 Age group
  # TYPES OF ANALYSIS FOR THIS PROJECT 
  # KPI
