@@ -50,7 +50,8 @@ Which geographic region has the highest churn rate?
  - Gender by Churned Customers (Bar Chart): Female customers have a higher churn rate (25%) compared to males (16%)
  - Churned Customers by Geography (Bar Chart): Germany has the highest churn rate (32%), followed by Spain (17%) and France (16%). 
  # DASHBOARD
- 
+![bank churn dashboard](https://github.com/user-attachments/assets/f604784c-2acb-4a21-b6ee-48ed64346af2)
+
 # INSIGHT
 INSIGHT
 1. 71.66% customers are active , while 28.34% are inactive.
