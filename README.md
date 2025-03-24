@@ -1,8 +1,8 @@
 # Bank-churn.
 # LANDING PAGE
- - Customer ID: A unique number assigned to identify a customer.
- - Surname: A person’s last name, shared within a family.
- - Credit Score: A numerical rating of a person’s creditworthiness.
+- Customer ID: A unique number assigned to identify a customer.
+- Surname: A person’s last name, shared within a family.
+- Credit Score: A numerical rating of a person’s creditworthiness.
 - Geography: The study of Earth’s landscapes, people, and places.
 - Gender: The classification of a person as male, female, or other.
 - Age: The number of years a person has lived.
@@ -18,12 +18,39 @@
  # DATA SOURCE
  # TOOLS
  # DATA CLEANING
+ APPLIED STEPS
+Source
+Promoted Headers
+Changed Type
+Filtered Rows
+Replaced Value
+× Filtered Rows1
  # DATA MANIPULATION
  # TYPES OF ANALYSIS FOR THIS PROJECT 
  # KPI
  # PRIMARY KPI
+ Primary kpi
+ - Total customers: 10k
+ - Churned customers :2037
+ - Churn rate :20
+ - Inactive members: 48
+ - Active members: 52
  # SECONNDARY KPI
+ - How does the churn rate compare between active and inactive customers?
+ - What is the distribution of active customers by gender?
+ - Which age groups have the highest number of churned customers?
+ - What is the proportion of active vs. inactive customers?
+ - How does the churn rate differ between male and female customers?
+Which geographic region has the highest churn rate?
  # DATA ANALYSIS
+ - Churn Rate by Active Customers (Pie Chart): Shows that 71.66% of customers are active, while 28.34% are inactive.
+ - Active Customers by Gender (Bar Chart): Male customers (52.54%) slightly outnumber female customers (50.28%) in terms of activity and gender differences in engagement are minimal.
+ - Age Group by Churned Customers (Bar Chart): Middle-aged customers (40-60) have the highest churn, with 703 and 702 customers leaving in those age groups and Younger and older customers churn less.
+ - Active Customers by Inactive Customers (Pie Chart): 51.51% of customers are active, while 48.49% are inactive, showing a close balance between both groups,Inactive members.
+ - Gender by Churned Customers (Bar Chart): Female customers have a higher churn rate (25%) compared to males (16%)
+ - Churned Customers by Geography (Bar Chart): Germany has the highest churn rate (32%), followed by Spain (17%) and France (16%).
+
+  
  # DASHBOARD
  
 # INSIGHT
